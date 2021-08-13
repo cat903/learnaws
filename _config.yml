@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              LearnAWS
+email:              contact@learnaws.com.bd
+description:        A Blog To Educate AWS Cloud
 author:             cat903
 baseurl:            ""
 url:                "https://learnaws.com.bd"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   learnawsbd
+github_username:    learnawsbd
+facebook_username:  learnawsbd
 instagram_username:  
 linkedin_username:
 
