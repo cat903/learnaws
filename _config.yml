@@ -2,8 +2,8 @@ title:              LearnAWS
 email:              contact@learnaws.com.bd
 description:        A Blog To Educate AWS Cloud
 author:             cat903
-baseurl:            ""
-url:                "https://cat903.github.io/learnaws/"
+baseurl:            "cat903.github.io/"
+url:                "learnaws"
 
 # Social Profiles
 twitter_username:   learnawsbd
